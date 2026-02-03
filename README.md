@@ -39,7 +39,7 @@ Markdown<div align="center">
 <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,css,react,nodejs&perline=10" />
 
 **AI / Machine Learning**  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,huggingface,sklearn,numpy,pandas,jupyter,anaconda&perline=6" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,huggingface,sklearn,numpy,pandas,jupyter,anaconda&perline=8" />
 
 **Backend & Databases**  
 <img src="https://skillicons.dev/icons?i=express,django,flask,redis,mongo,postgres,mysql&perline=10" />
