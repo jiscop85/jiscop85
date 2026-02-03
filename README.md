@@ -39,7 +39,7 @@ Markdown<div align="center">
 <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,css,react,nodejs&perline=10" />
 
 **AI / Machine Learning**  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,huggingface,sklearn,numpy,pandas,jupyter,anaconda&perline=8" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,huggingface,sklearn,numpy,pandas,jupyter,anaconda&perline=10" />
 
 **Backend & Databases**  
 <img src="https://skillicons.dev/icons?i=express,django,flask,redis,mongo,postgres,mysql&perline=10" />
@@ -55,11 +55,11 @@ Markdown<div align="center">
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiscop85&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jiscop85&show_icons=true&include_all_commits=true&count_private=true&hide=contributed_to&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_radius=20" alt="GitHub Stats"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiscop85&layout=compact&theme=radical&hide_border=true&langs_count=10&include_all_commits=true&count_private=true" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiscop85&layout=donut&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_radius=20" alt="Top Languages"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiscop85&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jiscop85&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FFA198&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideNums=8B949E&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak"/>
 </div>
 
 ### 📫 Connect With Me
