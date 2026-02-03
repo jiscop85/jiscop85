@@ -1,72 +1,111 @@
-## Hi there 👋
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Snake AI GIF" width="200"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm <strong>Jisc_op</strong></h1>
-<h3 align="center">AI Developer | Machine Learning Enthusiast | Python & Deep Learning Fan</h3>
+# Hi, I'm Arash Javadifar 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> AI & Robotics Engineer | Machine Learning Enthusiast
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR3P4k5sYo2wqys/giphy.gif" width="30"/> <strong>AI & ML Snake Codex in Action</strong> 
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+Computer+Vision;PyTorch+%7C+TensorFlow+%7C+HuggingFace;Full-Stack+with+TypeScript+%26+React;Building+Intelligent+Systems;Welcome+to+my+digital+universe!" alt="Typing SVG" />
 
----
+<br>
 
-### 🐍 About Me
-- 🤖 I build intelligent AI systems and ML models that automate real-world tasks.
-- 💻 Python, PyTorch, TensorFlow, OpenCV, NLP & Computer Vision are my playgrounds.
-- 🎮 Big fan of snakes… in code, AI experiments, and GIFs 🐍.
+<img src="https://media.giphy.com/media/SggILp8OQ5a0ZrVx4O/giphy.gif" width="100%" alt="Futuristic AI Header"/>
 
----
+<br><br>
 
-### 🐍 Top Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge&logo=nlp&logoColor=white" />
-</p>
+### 🚀 Passionate about pushing the boundaries of AI, Robotics & Intelligent Systems
 
----
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; max-width: 1400px; margin: 40px auto; padding: 0 20px;">
 
-### 🐍 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jisc_op&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jisc_op&theme=radical" />
-</p>
+  <img src="https://media.giphy.com/media/3oKIPwoMgE3hXa4xAc/giphy.gif" alt="Glowing Neural Network" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
+  
+  <img src="https://media.giphy.com/media/l1J9u3TZfpmeDLkXG/giphy.gif" alt="Advanced Humanoid Robot" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
+  
+  <img src="https://media.giphy.com/media/3oKIPvDP4iol6Qb9Xa/giphy.gif" alt="AI Brain Connections" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
+  
+  <img src="https://media.giphy.com/media/3oKIPn8b8bT3t3B3fK/giphy.gif" alt="Precision Robotic Arm" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
+  
+  <img src="https://media.giphy.com/media/X2Xsk4U6k5lZq/giphy.gif" alt="AI Robot Processing" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
+  
+  <img src="https://media.giphy.com/media/A9Lbvgza45YFgY3DM0/giphy.gif" alt="Neon Cyberpunk AI City" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
 
----
+</div>
 
-### 🐍 Latest Blog Posts
-<!-- DEV.to Example -->
-[![DEV Community](https://img.shields.io/badge/DEV.to-Latest%20Blogs-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jisc_op)
+<br><br>
 
-<!-- Medium Example -->
-[![Medium](https://img.shields.io/badge/Medium-Latest%20Blogs-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jisc_op)
+### 🛠️ Core Technologies & Expertise
 
----
+<div align="center">
 
-### 🐍 Connect with Me
-<p align="center">
-  <a href="https://github.com/Jisc_op"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/Jisc_op"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jisc_op"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<!-- Row 1 - AI/ML Core -->
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
 
----
+<br><br>
 
-### 🐍 Fun Snake Animations
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/l3q2XhfQfQtbkU1u0/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/3o7aD4cHkK5v80cYhG/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150"/>
-</p>
+<!-- Row 2 - Data & Tools -->
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)
 
----
+<br><br>
 
-<p align="center">
-  <i>“Coding is like a snake: it slithers through logic, bites bugs, and sheds errors.” 🐍</i>
-</p>
+<!-- Row 3 - Backend & DevOps -->
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 
+<br><br>
+
+<!-- Row 4 - Frontend & Others -->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jiscop85&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiscop85&layout=compact&theme=dracula&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jiscop85&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="Trophy"/>
+
+<br><br>
+
+<img src="https://github.com/jiscop85/jiscop85/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=jiscop85&color=00FF9D&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  <i>"The best way to predict the future is to invent it."</i> — Alan Kay
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/arash-javadifar">LinkedIn</a> •
+  <a href="https://github.com/jiscop85">GitHub</a> •
+  <a href="mailto:your@email.com">Email</a> <!-- ایمیل واقعی‌تون رو بگذارید -->
+</div>
+
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Footer Wave"/>
+
+</div>
