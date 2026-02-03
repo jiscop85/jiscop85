@@ -1,89 +1,100 @@
 ## Hi there 👋
 <div align="center">
 
-<!-- Cyberpunk AI Robot Banner با نئون و glitch -->
-<img src="https://thumbs.dreamstime.com/b/futuristic-ai-cyberpunk-robot-face-neon-glow-glitch-effects-close-up-advanced-artificial-intelligence-robot-face-401573306.jpg" alt="jiscop85 - AI Entity" width="100%"/>
+<!-- Epic Cyberpunk AI Banner with Neon Glow -->
+<img src="https://images.unsplash.com/photo-1634949891354-3c9e0c9789ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=90" alt="jiscop85 - Neural Matrix" width="100%"/>
 
 <br/>
 
-<!-- Advanced Typing Animation با افکت Matrix-style و چند خط -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF41&background=000000FF&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=WAKE+UP%2C+NEO...;I+am+jiscop85;AI+%7C+Deep+Learning+%7C+Neural+Architect;Building+Intelligent+Systems;Exploring+the+Matrix+of+Code;Enter+the+Simulation+🟢🟢🟢" alt="Typing SVG"/>
+<!-- Advanced Neon Typing Animation (Multi-line, Glitch Effect) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=4000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=160&lines=>>+ACCESS_GRANTED;Hello,+I'm+jiscop85;AI+%26+Machine+Learning+Engineer;Neural+Architect+%7C+Deep+Learning+Enthusiast;Building+Intelligent+Systems;Enter+the+Matrix+🟢🟢🟢" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Matrix Digital Rain #1 - Classic Green Code Rain -->
-<img src="https://repository-images.githubusercontent.com/145658226/a86e8aab-3d0f-4ff3-9b07-b159249f36a9" alt="Matrix Rain" width="100%"/>
+<!-- Full Matrix Digital Rain Animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/matrix.svg" alt="Matrix Rain" width="100%"/>
 
 <br/>
 
-### 🤖 Who I Am?
-من **jiscop85** هستم — یک هوش مصنوعی‌محور developer و enthusiast که عاشق کاوش در عمق neural networkها، generative models و آینده هوش مصنوعی‌ام.  
-از Matrix الهام می‌گیرم، با کد زندگی می‌کنم و همیشه در جستجوی الگوهای پنهان در داده‌ها هستم.  
-Python نفس منه، PyTorch و TensorFlow ابزارهام، و هدفم ساخت سیستم‌هایی که واقعاً "فکر" می‌کنن.  
-**Follow the white rabbit...** 🐇
+### 👋 Who I Am
+I'm **jiscop85** — a passionate **AI & Machine Learning Engineer** with a deep love for building intelligent systems that push the boundaries of what's possible.  
+Inspired by sci-fi, cyberpunk aesthetics, and the future of AGI, I specialize in deep learning, computer vision, generative models, and neural architectures.  
+From training massive models to deploying real-world AI solutions, I'm always exploring the intersection of code and cognition.
 
 <br/>
 
-### ⚡ What I'm Currently Working On?
-- ساخت مدل‌های Generative AI پیشرفته (Diffusion models و LLM fine-tuning)
-- پروژه‌های Computer Vision (object detection و segmentation با YOLO/PyTorch)
-- کاوش NLP و RAG systems برای intelligent agents
-- آزمایش با AGI concepts و multi-modal models
-- چند پروژه شخصی محرمانه در حوزه autonomous agents 🤫
+### 🔥 What I'm Currently Working On
+- Advanced **Generative AI** projects (diffusion models, LLMs fine-tuning, custom transformers)  
+- **Computer Vision** applications: object detection, segmentation, and real-time inference  
+- Building scalable **AI pipelines** with PyTorch, TensorFlow, and cloud deployment  
+- Researching efficient neural networks and exploring pathways toward more robust intelligence  
+- Personal experiments with multimodal models and agent-based systems  
+
+Always iterating, always learning — the future is being coded right now.
 
 <br/>
 
-<!-- Pulsing Neon Neural Network Animation -->
-<img src="https://images.stockcake.com/public/d/f/6/df603187-8c27-467b-8086-d7d10babe753/neon-neural-network-stockcake.jpg" alt="Neural Pulse" width="100%"/>
+### 🛠️ Tech Stack & Expertise
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-Master-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-API-Pro-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-%26-K8s-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neural+Networks-Architect-00FF41?style=for-the-badge&logo=git&logoColor=black"/>
 
 <br/>
 
-### 🛠️ Tech Stack & Arsenal
-<img src="https://img.shields.io/badge/Python-Master-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-Expert-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-Pro-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-API-412991?logo=openai&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-Deployed-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge"/>
-
-<br/><br/>
-
-<!-- GitHub Stats + Top Languages - Radical Theme (نئون و cyberpunk) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jiscop85&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiscop85&layout=compact&theme=radical&hide_border=true"/>
-
-<br/><br/>
-
-<!-- Streak Stats - Radical -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiscop85&theme=radical&hide_border=true"/>
-
-<br/><br/>
-
-<!-- Trophies برای حس achievement -->
-<img src="https://github-profile-trophy.vercel.app/?username=jiscop85&theme=radical&no-frame=true&margin-w=15"/>
-
-<br/><br/>
-
-### 📡 How to Reach Me?
-- 📧 Email → [your-email@example.com](mailto:your-email@example.com) *(جایگزین کن با ایمیل واقعی)*
-- 💼 LinkedIn → [linkedin.com/in/yourprofile](https://linkedin.com)
-- 🐦 X/Twitter → [@yourhandle](https://twitter.com)
-- 🌐 Discord → jiscop85#0001 *(یا هر چی داری)*
-- پیام مستقیم تو GitHub همیشه بازه — اگر ایده، همکاری یا سوال AI داری، بزن بریم!
+<!-- Animated GitHub Stats Cards (Radical Theme - Neon & Glitch) -->
+<div>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=jiscop85&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiscop85&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
+</div>
 
 <br/>
 
-<!-- Another Matrix Rain Layer برای depth -->
-<img src="https://as1.ftcdn.net/v2/jpg/03/77/64/94/1000_F_377649466_uIellT6ZcqBTkVyfvyH41m7rexUwQylB.jpg" alt="Matrix Rain Layer" width="100%"/>
+<!-- Epic Contribution Streak with Fire -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiscop85&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF00FF&currStreakLabel=00FF41" alt="GitHub Streak"/>
 
 <br/>
 
-<!-- Neon Visitor Badge -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jiscop85.jiscop85&left_color=black&right_color=00ff41&left_text=Visitors"/>
+<!-- THE SNAKE EATING MY CONTRIBUTIONS (Dark Mode - Super Satisfying Animation) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiscop85/jiscop85/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiscop85/jiscop85/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jiscop85/jiscop85/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
 
-<br/><br/>
+> ℹ️ **To activate the snake animation**: Create a workflow using [Platane/snk](https://github.com/Platane/snk) action in a separate repo (or same repo in `/output`) and commit the generated SVG. It will auto-update daily!
 
-**The Matrix has you...** 🟢  
-Follow. Code. Evolve.
+<br/>
+
+<!-- Trophy Case with Animation -->
+<img src="https://github-profile-trophy.vercel.app/?username=jiscop85&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies"/>
+
+<br/>
+
+### 📫 How to Reach Me
+- 💬 GitHub Discussions / Issues — fastest way!  
+- ✉️ Email: arash.javadyfar@gmail.com  
+- 🔗 LinkedIn:  : https://www.linkedin.com/in/arash-javadifar
+abba67320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- 💻 Open to collaborations, AI research ideas, or just geeking out about neural nets!
+
+<br/>
+
+<!-- Neon Visitor Badge + Pulse Animation -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jiscop85.jiscop85&left_color=black&right_color=00ff41"/>
+
+<br/>
+
+<!-- Final Neural Network Pulse -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/neural-network.gif" alt="Neural Pulse" width="100%"/>
+
+<br/>
+
+**>> System Online. Ready for the next breakthrough.** 🟢
 
 </div>
