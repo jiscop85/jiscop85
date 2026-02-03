@@ -1,6 +1,4 @@
-Markdown<div align="center">
-  <img src="https://i.pinimg.com/originals/92/99/40/929940c7800ad3868b0e7828d53073a7.gif" width="400"/>
-  
+
   <h1>👋 Hi, I'm Jisc_op</h1>
   
   <p>
