@@ -1,111 +1,121 @@
 ## Hi there 👋
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Jisc-op/img-storageprojects/master/Profile-GIF/Hi.gif" width="30" style="vertical-align:middle">, Watashi wa Jisc-op desu</h1>
+<h3 align="center">A passionate, serious game developer, web developer, and writer</h3>
+
 <div align="center">
 
-<!-- Epic Cyberpunk AI Banner with Neon Glow (High-res, fast-loading) -->
-<img src="https://raw.githubusercontent.com/jiscop85/jiscop85/main/assets/banner.jpg" alt="jiscop85 - Neural Matrix" width="100%"/>
+  JJJJJ  IIIII  SSSSS   CCCCC      OOOOO  PPPPP  
+  J        I    S       C         -  O   O  P   P  
+  J        I     SSS    C         -  O   O  P   P  
+  J        I        S   C         -  O   O  P   P  
+  J        I     SSS    C         -  O   O  P   P  
+  JJJJ    IIIII SSSSS   CCCCC     -  OOOOO  PPPPP  
 
-<br/>
+<br />
 
-<!-- Ultra Neon Typing Animation (Glitch effect, faster, multi-line, cyberpunk vibe) -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=%3E%3E+INITIALIZING_NEURAL_CORE...;Welcome+to+the+Matrix;I'm+jiscop85;AI+%26+Deep+Learning+Architect;Mastering+Generative+Models;PyTorch+%7C+Transformers+%7C+Vision;Building+AGI+One+Neuron+at+a+Time;System+Online+🟢🟢🟢" alt="Typing Animation"/>
-
-<br/>
-
-<!-- Intense Matrix Digital Rain (High-quality looped GIF - super immersive) -->
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/matrix.gif?raw=true" alt="Matrix Rain" width="100%"/>
-
-<br/>
-
-### 👋 Who I Am
-I'm **jiscop85** — a dedicated **AI & Machine Learning Engineer** driven by the thrill of creating intelligent systems that redefine possibilities.  
-Heavily inspired by cyberpunk, sci-fi, and the quest for AGI, I specialize in deep learning, generative AI, computer vision, and advanced neural architectures.  
-From fine-tuning massive models to deploying production AI, I'm obsessed with the magic where code meets cognition.
-
-<br/>
-
-### 🔥 What I'm Currently Working On
-- Cutting-edge **Generative AI** (Stable Diffusion, LLM fine-tuning, custom transformers)  
-- **Computer Vision** mastery: real-time detection, segmentation, and efficient inference  
-- Scalable AI pipelines with PyTorch, TensorFlow, Hugging Face, and cloud deployment  
-- Exploring multimodal models, agent systems, and pathways to robust general intelligence  
-- Personal R&D pushing neural networks to their limits  
-
-Always coding, always evolving — the future is being built now.
-
-<br/>
-
-### 🛠️ Tech Stack & Expertise
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-Master-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-Pro-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-Expert-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenAI-API-Advanced-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker/K8s-Pro-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neural%20Architect-Elite-00FF41?style=for-the-badge&logo=tensorflow&logoColor=black"/>
-
-<br/>
-
-<!-- Animated GitHub Stats (Radical theme - neon glitch effect) -->
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jiscop85&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiscop85&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41"/>
-</div>
-
-<br/>
-
-<!-- Fiery Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiscop85&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF00FF&currStreakLabel=00FF41"/>
-
-<br/>
-
-<!-- THE LEGENDARY CONTRIBUTION SNAKE (Fully animated - dark/light mode + extra GIF version for max impact) -->
-<div align="center">
-
-  <!-- SVG Version (Clean, lightweight, auto dark/light) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiscop85/jiscop85/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiscop85/jiscop85/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jiscop85/jiscop85/output/github-contribution-grid-snake-dark.svg" width="90%" />
-  </picture>
-
-  <br/><br/>
-
-  <!-- Bonus Animated GIF Version (Super satisfying eating animation - optional but epic) -->
-  <img src="https://raw.githubusercontent.com/jiscop85/jiscop85/output/github-contribution-grid-snake.gif" alt="Snake Eating Contributions GIF" width="90%" />
+<こんにちは、私は Jisc-op です。新しいことを学ぶことに熱心な情熱的な開発者です。>
 
 </div>
 
-<br/>
+<p align="center">
+       <img src="https://raw.githubusercontent.com/Jisc-op/img-storageprojects/master/Profile-GIF/doodle.svg">
+       Can't think of any creativity here so if you found it unpleasant, GOMEN **Arigatō**
+</p>
 
-<!-- Dynamic Trophies with Animation -->
-<img src="https://github-profile-trophy.vercel.app/?username=jiscop85&theme=radical&no-frame=true&no-bg=false&margin-w=20&margin-h=20"/>
+<br />
 
-<br/>
+### <img src="https://raw.githubusercontent.com/Jisc-op/img-storageprojects/master/Profile-GIF/Developer.gif" width="95"> \\___About Me:
 
-### 📫 How to Reach Me
-- 💬 GitHub Discussions / Issues — fastest way!  
-- ✉️ Email: arash.javadyfar@gmail.com  
-- 🔗 LinkedIn:  : https://www.linkedin.com/in/arash-javadifar
-abba67320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-- 💻 Open to collaborations, AI research ideas, or just geeking out about neural nets!
+- 🏦 I'm a Software Engineer (Bachelor [BSc] of Computer Science [CS] - Master [MSc] of Artificial Intelligence & Machine Learning [A.I.])
+      <img src="https://raw.githubusercontent.com/Jisc-op/img-storageprojects/master/Profile-GIF/gandalf_parrot.gif" width="31" style="vertical-align:middle">
+- 📝 Regularly write technical articles
+- 💻 Using **.js**, **.py**, **.go**, **_**
+- 📖 Sometimes reading novels, Manga, EBooks
+- 💬 Talk to me about Projects, AI, Games, Anime, Manga, Novels, and Books
+- 👯 We can connect to play some games of Chess ♟ and other games too
+- ⚡ Fun fact: I am single for now
+- 🧑‍💻 Tech I work on JS, Python, Go, C, C++, and related frameworks
 
+Other things that you might have found interesting: 
+1. Won Two times ACME IBM competition (Participated 5 times)
+2. Won a gold math medal in high school <img src="https://raw.githubusercontent.com/Jisc-op/img-storageprojects/master/Profile-GIF/Medal.gif" width="35" style="vertical-align:middle">
+3. Make handy software for my needs
+4. Make some games in CLI and GUI
+5. Various academic projects and scientific problems
 
-<br/>
+<img src="https://raw.githubusercontent.com/Jisc-op/img-storageprojects/master/Profile-GIF/steam_div.png">
 
-<!-- Neon Pulse Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=jiscop85&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS+/+ENTERING+THE+MATRIX"/>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Jisc-op/img-storageprojects/master/Profile-GIF/Mario_Hello_Big.gif" width="31"> Huh...</h3>
+<h3 align="center">
+       <img src="https://raw.githubusercontent.com/Jisc-op/img-storageprojects/master/Profile-GIF/L.gif" style="max-width:100%;filter: drop-shadow(0px 10px 0.75rem #1b2139a3);" width="300" align="middle">
+</h3>
 
-<br/>
+<br />
 
-<!-- Final Neural Network Pulse (Intense animated GIF) -->
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/neural.gif?raw=true" alt="Neural Pulse" width="100%"/>
+<h3 align="center">
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jisc-op/Jisc-op/output/github-contribution-grid-snake-dark.svg">
+         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jisc-op/Jisc-op/output/github-contribution-grid-snake.svg">
+         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jisc-op/Jisc-op/output/github-contribution-grid-snake.svg">
+       </picture>
+</h3>
 
-<br/>
+<br />
 
-**>> NEURAL CORE ACTIVE. READY FOR THE NEXT BREAKTHROUGH.** 🟢🔥
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jisc-op&label=Profile%20views&color=0e75b6&style=flat" alt="Jisc-op" /> </p>
 
-</div>
+<!-- Modern Stats Section -->
+<h3 align="center">📊 My GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jisc-op&show_icons=true&theme=tokyonight&border_radius=20&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisc-op&theme=tokyonight&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jisc-op&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jisc-op&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="Trophy" />
+</p>
 
+<details align="center">
+    <summary> <samp>&#9776; More Details</samp></summary>
+    <p align="center">
+        <br>
+        <img alt="Jisc-op Counter Status" src="https://komarev.com/ghpvc/?username=Jisc-op&color=ff69b4" />
+    </p>
+</details>
 
+<details align="center">
+    <summary> <samp>&#9825; Donation</samp></summary>
+    <p>If my Projects helped you, you can also help me too ❤️</p>
+    <table align="center">
+        <tr>
+            <td><img alt="TRON" src="https://img.shields.io/badge/TRX-Tron-ff69b4"></td>
+            <td>EMPTY</td>
+        </tr>
+        <tr>
+            <td><img alt="Bitcoin" src="https://img.shields.io/badge/BTC-Bitcoin-orange"></td>
+            <td>EMPTY</td>
+        </tr>
+        <tr>
+            <td><img alt="Ethereum" src="https://img.shields.io/badge/ETH-Ethereum-blue"></td>
+            <td>EMPTY</td>
+        </tr>
+        <tr>
+            <td><img alt="Tether" src="https://img.shields.io/badge/ERC20-Tether-purple"></td>
+            <td>EMPTY</td>
+        </tr>
+    </table>
+</details>
+
+<samp>
+    <p align="center">
+    ═════ ⋆★⋆ ═════
+        <br>
+        "自由のために"
+        <br>
+        "どうもありがとうございます"
+    </p>
+</samp>
 
 
