@@ -11,19 +11,9 @@
 
 ### 🚀 Passionate about pushing the boundaries of AI, Robotics & Intelligent Systems
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; max-width: 1400px; margin: 40px auto; padding: 0 20px;">
-
-  <img src="https://media.giphy.com/media/3oKIPwoMgE3hXa4xAc/giphy.gif" alt="Neural Network Connections" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
-
-  <img src="https://media.giphy.com/media/l1J9u3TZfpmeDLkXG/giphy.gif" alt="Advanced Humanoid Robot" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
 
   <img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" alt="AI Robot Thinking" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
 
-  <img src="https://media.giphy.com/media/F6O1O2saVuBbYCfZhm/giphy.gif" alt="AI Scanning & Processing" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
-
-  <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" alt="Glowing AI Brain" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
-
-  <img src="https://media.giphy.com/media/l2JdTgC7iB6IOzxRC/giphy.gif" alt="Precision Robotic Movement" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,255,157,0.5);"/>
 
 </div>
 
@@ -106,3 +96,7 @@
 <br>
 
 <img src="https://media.giphy.com/media/3oEjHVmF3fBfQ5v9g4/giphy.gif" width="100%" alt="Neon Wave Footer"/>
+
+
+
+
