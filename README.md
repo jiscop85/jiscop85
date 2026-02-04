@@ -38,7 +38,12 @@
 
 **AI / Machine Learning**  
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,huggingface,sklearn,numpy,pandas,jupyter,anaconda&perline=10" />
-
+  <img src="https://skillicons.dev/icons?i=python" height="55" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="55" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="55" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="55" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="55" />
 **Backend & Databases**  
 <img src="https://skillicons.dev/icons?i=express,django,flask,redis,mongo,postgres,mysql&perline=10" />
 
